@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World 👋</h1>
----
+
 ```javascript
-let = "Advice for my web development journey"
+//Advice for my web development journey
 if (brain !== empty) {
     keepCoding();
 } else {
