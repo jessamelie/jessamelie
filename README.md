@@ -11,9 +11,9 @@ if (brain !== empty) {
 ---
 
 ### <p align="center">🌱 About me</p>
-<p align="center"> I'm Jess, a passionnate learning full stack software developer enrolled in a 2-year formation program with Ada Tech School</p> 
+<p align="center"> I'm Jess, a passionnate learning full stack software developer enrolled in a 2-year training program with Ada Tech School</p> 
 Quick learner, collaborative team player, and dedicated to continuous growth, I'm eager to learn and excel in the MERN stack. I am always on the lookout for new learning opportunities and challenges to make a positive impact in full stack development. 
-Welcome to the place where I try stuff out, make mistakes to learn and grow with fellow developpers! 
+Welcome to the place where I try things out, make mistakes to learn and grow with fellow developpers! 
 
 ---
 ### <p align="center">💻 My Stack Toolbox</p>
