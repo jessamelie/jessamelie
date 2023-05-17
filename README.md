@@ -32,4 +32,4 @@ Welcome to the place where I try stuff out, make mistakes to learn and grow with
 
 ---
 ### <p align="center"> 🌐 Connect with me</p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=6aa6f8)](https://linkedin.com/in/https://www.linkedin.com/in/jess-am%C3%A9lie-sola-5aa0936a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=6aa6f8)](https://www.linkedin.com/in/jess-am%C3%A9lie-sola-5aa0936a/) 
