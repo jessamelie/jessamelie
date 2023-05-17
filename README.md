@@ -1,6 +1,9 @@
 <h1 align="center"> Hello World 👋</h1>
 
 ```
+#!/usr/bin/javascript
+# -*- coding: utf-8 -*-
+
 if (brain!=empty){
   keepCoding();
   }else{
