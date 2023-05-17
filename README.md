@@ -1,6 +1,6 @@
 ### Hello World 👋 
 # 💫 About Me:
-SS
+I'm Jess and welcome to my profil!
 
 
 ## 🌐 Connect with me:
@@ -18,10 +18,11 @@ SS
 
 
 # My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jessamelie&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jessamelie&theme=buefy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessamelie&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=jessamelie&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=jessamelie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jessamelie&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessamelie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
