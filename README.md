@@ -1,13 +1,11 @@
 <h1 align="center"> Hello World 👋</h1>
 
-```
-#!/usr/bin/javascript
-# -*- coding: utf-8 -*-
-
-if (brain!=empty){
-  keepCoding();
-  }else{
-  orderCoffee();
+```javascript
+if (brain !== empty) {
+    keepCoding();
+} else {
+    orderCoffee();
+}
 ```
 
 ### <p align="center">🌱 About me</p>
