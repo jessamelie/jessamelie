@@ -15,12 +15,10 @@ I'm Jess and welcome to my profil!
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 
-
-
 # My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jessamelie&theme=default&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jessamelie&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessamelie&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessamelie&layout=donut&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 
 
 <!--
