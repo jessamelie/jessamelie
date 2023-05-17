@@ -3,8 +3,8 @@
 SS
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jess-am%C3%A9lie-sola-5aa0936a/) 
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=6aa6f8)](https://linkedin.com/in/https://www.linkedin.com/in/jess-am%C3%A9lie-sola-5aa0936a/) 
 
 # 💻 My Toolbox:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -17,16 +17,11 @@ SS
 
 
 
-# 📊 GitHub Stats:
+# My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jessamelie&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jessamelie&theme=buefy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jessamelie&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=jessamelie&icon=3&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jessamelie&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 
