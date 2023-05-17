@@ -1,13 +1,11 @@
 <h1 align="center"> Hello World 👋</h1>
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
+```
 if (brain!=empty){
   keepCoding();
   }else{
   orderCoffee();
-}
+```
 
 ### <p align="center">🌱 About me</p>
 <p align="center"> I'm Jess, a passionnate learning full stack software developer enrolled in a 2-year formation program with Ada Tech School</p> 
